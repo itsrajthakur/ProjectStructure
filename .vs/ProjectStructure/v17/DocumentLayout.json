@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\viewmodel\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\businessservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\businessservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\businessservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\businessservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930173548_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectStructure\\Migrations\\20240930173548_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930172702_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectStructure\\Migrations\\20240930172702_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930171858_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectStructure\\Migrations\\20240930171858_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930172225_firstmigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectStructure\\Migrations\\20240930172225_firstmigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930172519_firstmigration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectStructure\\Migrations\\20240930172519_firstmigration3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|c:\\users\\rajth\\source\\repos\\projectstructure\\projectstructure\\projectstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FF349EB-FD98-4839-822D-36363FEC8E2D}|ProjectStructure\\ProjectStructure.csproj|solutionrelative:projectstructure\\projectstructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240930173548_firstmigration.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930173548_firstmigration.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Migrations\\20240930173548_firstmigration.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930173548_firstmigration.cs",
+              "RelativeToolTip": "ProjectStructure\\Migrations\\20240930173548_firstmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:35:48.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240930172702_firstmigration.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930172702_firstmigration.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Migrations\\20240930172702_firstmigration.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930172702_firstmigration.cs",
+              "RelativeToolTip": "ProjectStructure\\Migrations\\20240930172702_firstmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:27:02.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240930172519_firstmigration3.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930172519_firstmigration3.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Migrations\\20240930172519_firstmigration3.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930172519_firstmigration3.cs",
+              "RelativeToolTip": "ProjectStructure\\Migrations\\20240930172519_firstmigration3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:25:19.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240930172225_firstmigration2.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930172225_firstmigration2.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Migrations\\20240930172225_firstmigration2.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930172225_firstmigration2.cs",
+              "RelativeToolTip": "ProjectStructure\\Migrations\\20240930172225_firstmigration2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:22:25.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240930171858_firstmigration.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930171858_firstmigration.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Migrations\\20240930171858_firstmigration.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Migrations\\20240930171858_firstmigration.cs",
+              "RelativeToolTip": "ProjectStructure\\Migrations\\20240930171858_firstmigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:18:59.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectStructure\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProjectStructure\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:18:12.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectStructure\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProjectStructure\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:17:24.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectStructure\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProjectStructure\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:14:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectStructure\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProjectStructure\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAACcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T17:13:31.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "ProjectStructure\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:02:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProjectStructure\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:01:48.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\BusinessServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\BusinessServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\BusinessServices\\ProductService.cs",
+              "RelativeToolTip": "ProjectStructure\\BusinessServices\\ProductService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:00:12.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\BusinessServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\BusinessServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\BusinessServices\\IProductService.cs",
+              "RelativeToolTip": "ProjectStructure\\BusinessServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:00:02.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "ProjectStructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:58:09.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "ProjectStructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:58:02.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Program.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Program.cs",
+              "RelativeToolTip": "ProjectStructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:50:58.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectStructure\\appsettings.json",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\appsettings.json",
+              "RelativeToolTip": "ProjectStructure\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T16:50:18.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectStructure\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:49:14.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ProjectStructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:47:13.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "ProjectStructure\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:46:14.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\ViewModel\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\ViewModel\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\ViewModel\\ProductViewModel.cs",
+              "RelativeToolTip": "ProjectStructure\\ViewModel\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:45:22.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProjectStructure\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\Models\\Product.cs",
+              "RelativeToolTip": "ProjectStructure\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:44:50.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProjectStructure",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\ProjectStructure.csproj",
+              "RelativeDocumentMoniker": "ProjectStructure\\ProjectStructure.csproj",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ProjectStructure\\ProjectStructure\\ProjectStructure.csproj",
+              "RelativeToolTip": "ProjectStructure\\ProjectStructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T16:43:24.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
